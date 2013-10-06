@@ -1,0 +1,12 @@
+.tp-bar, .progress .bar, .event-countdown, .bottom, .btn, .footer .btn, #wp-calendar tbody td:hover, #wp-calendar tbody td#today, #wp-calendar tbody td#today:hover,
+.widget_nav_menu li:hover, .widget_rss li:hover, .widget_archive li:hover, .widget_categories li:hover, .widget_pages li:hover, .widget_recent_entries li:hover, .widget_links li:hover, #wp-calendar tbody td:hover, .widget_tag_cloud .tagcloud a, .tp-caption.large_yallow, .tp-caption.very_large_yallow, .banner h1, .ui-dialog .ui-dialog-content .heading {
+	background-color:#96c052;
+}
+
+.blog-left a.blog-author, .blog-left a:hover, .text-yallow, a:hover, .footer a:hover, ul.contact-list li a:hover, .donate-detail h3,.page-404 span {
+  color:#96c052;
+}
+
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+  border-color:#96c052;
+}

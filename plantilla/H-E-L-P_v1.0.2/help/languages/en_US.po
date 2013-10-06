@@ -1,0 +1,1794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H-E-L-P v1.0\n"
+"POT-Creation-Date: 2013-08-21 18:36+0500\n"
+"PO-Revision-Date: 2013-08-21 18:37+0500\n"
+"Last-Translator: Fourthwave Technologies <admin@fourthwavetech.com>\n"
+"Language-Team: Extracoding Team <info@extracoding.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\help\\wp-content\\themes\\help\n"
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/404.php:7
+msgid ""
+"Sorry but the page you are looking for cannot be found.<br /> Please use "
+"search box to search anything or go back to <a href=\""
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/comments.php:32
+msgid "Sorry comments are closed for this Post."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/contact.php:28
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:206
+msgid "Leave <strong>Reply</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:24
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:28
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:27
+msgid "Enter Any Keyword"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:34
+msgid "User Login"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:40
+msgid "Remeber me"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/footer.php:41
+msgid "Sign In"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/functions.php:23
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/functions.php:23
+msgid "Bottom Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/page.php:39
+#: D:\xampp\htdocs\help\wp-content\themes\help/single-fw_event.php:44
+#: D:\xampp\htdocs\help\wp-content\themes\help/single.php:39
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:96
+msgid "Author"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:151
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:188
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:374
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:35
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:17
+msgid "Name"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:190
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:375
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:23
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:130
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:192
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:196
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:199
+msgid "Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:200
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:201
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:202
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:203
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:207
+#, php-format
+msgid "Leave  <strong>Reply</strong> to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:208
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:209
+msgid "Post Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:284
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:296
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:315
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:315
+msgid "Prev"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:376
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:29
+msgid "Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:377
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:35
+msgid "Message"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:385
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:402
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our contact form! Your email was "
+"successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:405
+msgid "SUCCESS! "
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/theme_functions.php:418
+msgid "Error! "
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/launcher.php:4
+msgid "Theme settings are missing in functions.php"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/launcher.php:66
+msgid "The dummy data is installed successfully"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/launcher.php:77
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/launcher.php:107
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/layout/index.php:71
+msgid "Page Builder"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:20
+msgid "Gallery Post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:22
+msgid "Select the gallery post to show its attachments or videos"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:29
+msgid "Number of Images per Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:31
+msgid "Enter number of image to show page page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:37
+msgid "Number of Columns"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:39
+msgid "select the number of columns for gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:51
+msgid "Content"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:67
+msgid "Heading Tag"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:75
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:123
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:299
+msgid "Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:88
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:418
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:100
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:108
+msgid "Number of Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:110
+msgid "Enter number of blog posts to show"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:125
+msgid "Enter Heading of the event area"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:131
+msgid "Number of Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:133
+msgid "Enter number of events to show"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/layout.php:145
+msgid "Number of Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:18
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:434
+msgid "Color Scheme"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:20
+msgid "Select the default color scheme"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:27
+msgid "Heading Color"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:34
+msgid "Content Text Color"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:36
+msgid "Choose the color for normal text"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:41
+msgid "Responsive"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:48
+msgid "Comment Captcha"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:56
+msgid "Default Gallery View"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:62
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/metaboxes.php:29
+msgid "Gallery Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:65
+msgid "Number of Images Per Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:67
+msgid "Enter the number of images per page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:72
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:170
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:290
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:74
+msgid "show or hide testimonials on homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:77
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/metaboxes.php:29
+msgid "Testimonial Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:80
+msgid "Sorting Option"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:82
+msgid "Sorting order of testimonials on homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:88
+msgid "Number Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:91
+msgid "Number testimonials to show on homepage bottom area"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:96
+msgid "Background Type"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:104
+msgid "Background Image"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:112
+msgid "Patterns"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:120
+msgid "Background Position"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:128
+msgid "Background Repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:136
+msgid "Background Attachment"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:144
+msgid "Background Color"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:151
+msgid "Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:161
+msgid "Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:163
+msgid ""
+"Enter the .ico file URL or use upload option, <a href=\"http://en.wikipedia."
+"org/wiki/Favicon\" target=\"_blank\"><strong>what is favicon?</strong></a>."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:172
+msgid "Enable / Disbale to hide and show twitter feed in header"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:175
+msgid "Twitter Feed"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:178
+msgid "Number of Tweets"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:180
+msgid "Enter the number of tweets to show"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:186
+msgid "Twitter ID"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:188
+msgid "Enter the twitter ID to fetch feed ( e.g Wordpress )"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:193
+msgid "Header CSS/JS"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:198
+msgid "Header Script / Styles"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:201
+msgid "Footer Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:209
+msgid "Copyrights"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:218
+msgid "Analytics Code"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:220
+msgid "Insert the analytics code or custom scripts to include in footer"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:229
+msgid "Consumer Key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:231
+msgid "Insert the twitter consumer key to fetch data"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:234
+msgid "Twitter API Information"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:237
+msgid "Consumer Secret"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:239
+msgid "Insert the twitter consumer secret"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:244
+msgid "Token"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:246
+msgid "Insert the twitter token"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:251
+msgid "Twitter Token Secret"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:253
+msgid "Insert the twitter token secret"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:258
+msgid "Recaptcha Public Key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:260
+msgid "Insert the recaptcha Public key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:263
+msgid "Recapctha Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:266
+msgid "Recaptcha Private Key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:268
+msgid "Insert the recaptcha Private key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:273
+msgid "Show Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:275
+msgid ""
+"Switch it on if you want to show slider at home page. If you switch it off "
+"it will not show slider at home page."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:280
+msgid "Revolution Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:295
+msgid "Homepage Message Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:306
+msgid "Message Text"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:313
+msgid "Number of Upcoming Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:315
+msgid "Enter the number of upcoming events on homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:320
+msgid "Title of Upcoming Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:322
+msgid "Give the title to the upcoming events area on homepage."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:328
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:349
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:369
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:389
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:409
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:430
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:450
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:471
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:491
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:511
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:14
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:84
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:146
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:182
+msgid "Banner Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:332
+msgid "Category Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:335
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:356
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:376
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:396
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:417
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:437
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:457
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:478
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:498
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:518
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:21
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:91
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:153
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:189
+msgid "Banner Image"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:341
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:362
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:382
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:402
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:423
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:443
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:353
+msgid "Archive Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:373
+msgid "Author Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:393
+msgid "TAG Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:412
+#, php-format
+msgid "Use %s to replace with search query, e.g. Your Search for %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:414
+msgid "Search Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:434
+msgid "Events Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:454
+msgid "Post Detail Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:463
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:484
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:504
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:475
+msgid "Wordpress Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:495
+msgid "Event Detail Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:515
+msgid "Gallery Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:525
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:527
+msgid "Choose sidebar for contact page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:533
+msgid "Google Map Status"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:535
+msgid "Show / Hide Google map on contact page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:540
+msgid "Google Map Code"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:542
+msgid "Insert google map code with &lt;ifram&gt; tag"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:547
+msgid "Anti Spam"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:549
+msgid ""
+"Enable / Disable antispam captcha, You need to add <a href=\"http://google."
+"com/recaptcha\">google recaptcha</a> keys"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:554
+msgid "Contact Email"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:556
+msgid "Insert email ID where contact email should be shouted"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:561
+msgid "Success Message"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:563
+msgid "Insert custom success message for contact form submission"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:569
+msgid "Google Font API Key"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:571
+msgid ""
+"Over 651+ Google fonts included. Please <a href=\"javascript:void(0);\" id="
+"\"google_font_update\">Click Here</a> to update latest fonts from google"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:577
+msgid "Font Familly"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:579
+msgid "Over 651+ Google fonts included"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:585
+msgid "Content Font Familly"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:593
+msgid "H1 Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:600
+msgid "H2 Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:607
+msgid "H3 Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:614
+msgid "H4 Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:621
+msgid "H5 Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:628
+msgid "Body Content Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:635
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:24
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:28
+msgid "Create Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:646
+msgid "Select Language"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:648
+msgid "Select the langauge which are uploaded in language directory"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:654
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:663
+msgid "Upload Language"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:656
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/config/theme_options.php:665
+msgid "Upload .mo language file"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/backup_class.php:393
+#, php-format
+msgid ""
+"System is not able to create backup directory, please create a directory "
+"named \"backup\" in \"%s\" manually and give it 0777 write permission."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/html_class.php:318
+msgid "UPLOAD"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/options_class.php:102
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/options_class.php:109
+msgid "The requested section was not found on this server."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/options_class.php:427
+msgid "Invalid Request"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:296
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:498
+msgid "The field was not set"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:640
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1279
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1280
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1281
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1282
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1283
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1284
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1285
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1286
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1287
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1288
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1289
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1290
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1291
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1292
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1293
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1294
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1295
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1296
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1297
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1298
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1299
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1300
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1301
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/core/validation_class.php:1302
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/functions/helpers.php:62
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/functions/helpers.php:90
+msgid "Random"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:36
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:37
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:38
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:489
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:50
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:51
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:516
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2057
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:544
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:703
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1090
+msgid "External Link"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1095
+msgid "Private Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1098
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1102
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1105
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1105
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1108
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1110
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1280
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1296
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1317
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1543
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Install package not available."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1844
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+msgid "Hide Details"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:39
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/thirdparty/tgm-plugin-activation/plugins.php:52
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/layout/index.php:90
+msgid "Available Modules"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/shared/header.php:7
+msgid "H-E-L-P"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/shared/header.php:9
+msgid "SUPPORT"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/shared/header.php:10
+msgid "Import Default Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/main.php:28
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:53
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/table.php:50
+msgid "Save"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/main.php:29
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:54
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/table.php:51
+msgid "Cancel"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:26
+msgid "Enter Sidebar Name"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/theme_options/sidebars.php:36
+msgid "Action"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/includes/views/wp_admin/wrap.php:8
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:12
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:46
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:47
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:48
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:49
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/breadcrumbs.php:50
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:17
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:23
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:29
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:35
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:42
+msgid "(Required)"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:42
+msgid "Antispam"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:43
+msgid "Invalid Captcha"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/contactform.php:49
+msgid "Send Message"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/register_sidebars.php:15
+msgid "Homepage Sidebar 1"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/register_sidebars.php:26
+msgid "Homepage Sidebar 2"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/register_sidebars.php:37
+msgid "Blog Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/register_sidebars.php:48
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:29
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:60
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:67
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:151
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:231
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:333
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:610
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:758
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:845
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:69
+msgid "Twitter ID:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:72
+msgid "Number of Tweets:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:74
+msgid "Follow us Label:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:146
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:154
+msgid "Number of posts to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:224
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:218
+msgid "Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:235
+msgid "Number of Images:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:239
+msgid "Exclude:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:241
+msgid "Comma separated IDs of attachments"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:327
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:7
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:9
+msgid "Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:422
+msgid "Facebook Page URL"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:426
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:430
+msgid "Height"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:441
+msgid "Show Faces"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:445
+msgid "Border Color"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:449
+msgid "Show Stream"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:453
+msgid "Show Header"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:597
+msgid "You've Helped Raise..."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:614
+msgid "Target:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:619
+msgid "Manually enter the raised money:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:624
+msgid "Currency Sign:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:628
+msgid "Note:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:632
+msgid "Select Paypal Type:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:637
+msgid "Paypal Username:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:641
+msgid "Paypal API Username:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:645
+msgid "Paypal API Password:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:649
+msgid "Paypal Signature:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:668
+msgid "Thank you for your donation."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:672
+msgid "Sorry! unfortunetly the transaction is failed."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:746
+msgid "Contact Us"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:762
+msgid "Text:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:766
+msgid "Address:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:770
+msgid "Phone Number:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:775
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:779
+msgid "Facebook:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:783
+msgid "Twitter:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:813
+msgid "Enter any Valid Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:847
+msgid "Feedburner Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/widgets.php:849
+msgid "Enter Text:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:8
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:30
+msgid "Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:10
+msgid "Parent Event:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:11
+msgid "All Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:12
+msgid "View Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:13
+msgid "Add New Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:14
+msgid "New Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:15
+msgid "Edit Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:16
+msgid "Update Event"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:17
+msgid "Search Events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:18
+msgid "No Events found"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:19
+msgid "No Events found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:31
+msgid "Custom post type Event is used to create events"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:57
+msgid "Event Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:58
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:67
+msgid "Event Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:59
+msgid "Search Event Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:60
+msgid "All Event Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:61
+msgid "Parent Event Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:62
+msgid "Parent Event Category:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:63
+msgid "Edit Event Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:64
+msgid "Update Event Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:65
+msgid "Add New Event Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/events/events.php:66
+msgid "New Event Category Name"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/metaboxes.php:29
+msgid "Post Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/metaboxes.php:30
+msgid "Page Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/metaboxes.php:30
+msgid "Event Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:6
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:98
+msgid "Post Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:8
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:100
+msgid "select the sidebar for the current post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:16
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:86
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:148
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:184
+msgid "Enter the banner heading for the current post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:23
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:93
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:155
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:191
+msgid "select the banner image for the current post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:28
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:106
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:169
+msgid "Show / Hide Author Box"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:30
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:108
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:171
+msgid "show or hide author box for this post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:35
+msgid "Event Organizer"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:41
+msgid "Buy Ticket URL"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:47
+msgid "Event Start time"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:53
+msgid "Event End Time"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:59
+msgid "Search Address"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:66
+msgid "Event Place"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:72
+msgid "Langitude"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:78
+msgid "Latitude"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:116
+msgid "Company Name"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:118
+msgid "Enter the company name"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:123
+msgid "Address"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:125
+msgid "Enter the author address"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:132
+msgid "Enter email address of the author"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:137
+msgid "Link"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:160
+msgid "Page Sidebar 1"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:162
+msgid "select the sidebar for the current page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/metaboxes/config/posts.php:176
+msgid "Enable Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:7
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:8
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:10
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:11
+msgid "All Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:12
+msgid "View Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:13
+msgid "Add New Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:14
+msgid "New Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:15
+msgid "Edit Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:16
+msgid "Update Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:17
+msgid "Search Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:18
+msgid "No Testimonials found"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:19
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/testimonial/testimonial.php:31
+msgid "Custom post type Testimonial is used to create Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:95
+msgid "Images and Videos"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:97
+msgid "Date"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:108
+msgid "Unable to get category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:171
+msgid "Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:173
+msgid "Upload Images"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:174
+msgid "Upload Videos"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:217
+msgid "Galleries"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:219
+msgid "Add New"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:220
+msgid "Add New Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:221
+msgid "Edit"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:222
+msgid "Edit Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:223
+msgid "New Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:224
+msgid "View"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:225
+msgid "View Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:226
+msgid "Search Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:227
+msgid "No Gallery found"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:228
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:229
+msgid "Parent Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/wpnukes-gallery.php:231
+msgid "Gallery plugin to manage image and videos"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:8
+msgid "Gallery With Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:13
+msgid "Active or Inactive Sidebar on gallery."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:16
+msgid "Images Per Page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:20
+msgid "Number of images you want to show per page"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:23
+msgid "Show Album on Single Gallery Post"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:28
+msgid "Active or Inactive Album on Single."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:31
+msgid "Show Album on Category"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:36
+msgid "Active or Inactive Album on gallery category."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:38
+msgid "Title Limit (Grid View)"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:43
+msgid "The title character limit on grid view."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:46
+msgid "Content Limit (List View)"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/config/gallery.php:51
+msgid "The content words limit on list view."
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/views/upload_images.php:17
+msgid "Add / Edit Media"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/views/upload_videos.php:13
+msgid "Show Video Grabber"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/views/upload_videos.php:33
+msgid ""
+"Enter the URL of videos to upload, you can upload multiple videos at once"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/views/upload_videos.php:47
+msgid "Process Videos"
+msgstr ""
+
+#: D:\xampp\htdocs\help\wp-content\themes\help/libs/wpnukes-gallery/views/upload_videos.php:55
+msgid "LIVE VIDEOS LOG"
+msgstr ""
