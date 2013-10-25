@@ -281,7 +281,7 @@ function blog_listing()
                     <h4><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></h4>
                     <p class="date"><?php echo get_the_date(); ?></p>
                     <?php the_excerpt(); ?>
-                    <a class="readmore" title="<?php the_title(); ?>" href="<?php the_permalink(); ?>"><?php _e('Read More', THEME_NAME); ?></a> 
+                    <a class="readmore" title="<?php the_title(); ?>" href="<?php the_permalink(); ?>"><?php _e('Leer más', THEME_NAME); ?></a> 
                 </div>
                 <!-- details end --> 
             </div>
@@ -293,7 +293,7 @@ function blog_listing()
 }
 
 function fw_new_excerpt_more( $more ) {
-	return ' <a href="'.get_permalink().'" title="'.__('Read More', THEME_NAME).'">.....</a>';
+	return ' <a href="'.get_permalink().'" title="'.__('Leer Más', THEME_NAME).'">.....</a>';
 }
 add_filter('excerpt_more', 'fw_new_excerpt_more');
 

@@ -4,9 +4,9 @@
  * 
  */
 
+
 jQuery(document).ready(function ($) {
 	"use strict";
-	
 			/*** Alert script ***/
 		$('.alert a.close').click( function(e){
 			$(this).parents('.alert').fadeOut();
@@ -88,23 +88,7 @@ jQuery(document).ready(function ($) {
 		}
 	}
 	menuTablet();
-	
-	
-	if( $('.camera_wrap').length !== 0){
-		$('.camera_wrap').camera({
-			pagination: false
-		});
-	}
 
-	if( $('.testimoni').length !== 0){
-		$('.testimoni').bxSlider({
-			minSlides: 1,
-			maxSlides: 1,
-			slideWidth: 800
-		});
-	}	
-	
-	
 	/*** gallery images hover text ***/
 	$('.gallery .image').hover(function(){
 				var $this = $(this);
@@ -144,7 +128,6 @@ jQuery(document).ready(function ($) {
 			});
 		}
 		
-
 
 	/*** Dialog Script ***/
 	$("#dialog-login, #dialog-search").dialog({
@@ -221,5 +204,18 @@ jQuery(document).ready(function ($) {
 		dialogLogin_size();
 	});
 		
+	if( $('.camera_wrap').length !== 0){
+		$('.camera_wrap').camera({
+			pagination: false
+		});
+	}
+
+	if( $('.testimoni').length !== 0){
+		$('.testimoni').bxSlider({
+			minSlides: 1,
+			maxSlides: 1,
+			slideWidth: 800
+		});
+	}	
 
 }); // document ready function ends //

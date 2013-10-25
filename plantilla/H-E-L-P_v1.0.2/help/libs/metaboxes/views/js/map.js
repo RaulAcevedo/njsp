@@ -59,6 +59,6 @@ jQuery(document).ready(function($) {
 	
 	
 	if( $('#event_start_time') && $('#event_end_time') ){
-		$('#event_start_time, #event_end_time').datetimepicker({timeFormat: 'hh:mm:ss', dateFormat: 'yy-mm-dd'});
+		$('#event_start_time, #event_end_time').datetimepicker({timeFormat: 'HH:mm', dateFormat: 'yy-mm-dd'});
 	}
 });

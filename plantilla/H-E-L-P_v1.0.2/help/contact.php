@@ -25,7 +25,7 @@ $settings = $GLOBALS['_webnukes']->fw_get_settings('sub_contact_page_settings');
 		</div>
        	<div class="span7">
         	<section class="comment-area">
-            	<h2 class="text-pink"><?php _e('Leave <strong>Reply</strong>', THEME_NAME); ?></h2>
+            	<h2 class="text-pink"><?php _e('Dejenos <strong>sus comentarios</strong>', THEME_NAME); ?></h2>
         		<?php fw_contact_form($settings); //do_shortcode('fw_contact_form'); ?>
             </section>
         </div>

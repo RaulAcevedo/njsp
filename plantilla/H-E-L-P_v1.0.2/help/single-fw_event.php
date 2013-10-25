@@ -4,7 +4,8 @@
 
 <div style="background:url(<?php echo kvalue( $settings,'post_banner_image');?>);" class="banner">
     <div class="container">
-        <h1><?php echo kvalue($settings, 'post_banner_heading'); ?></h1>
+        <br /> 
+        <h1>Detalles del Evento</h1>
         <div class="bread-bar clearfix"> <?php echo get_the_breadcrumb(); ?> </div>
     </div>
 </div>
@@ -19,7 +20,7 @@
             	<section class="blog-box">
                 	<div class="details">
                     	<div class="location-map">
-                          <iframe src="http://maps.google.com/?ie=UTF8&q=<?php echo kvalue( $meta, 'event_place'); ?>&amp;ll=<?php echo kvalue( $meta, 'lat'); ?>,<?php echo kvalue( $meta, 'lang'); ?>&amp;&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                          <iframe src="http://maps.google.com/?ie=UTF8&q=<?php echo kvalue( $meta, 'event_place'); ?>&amp;ll=<?php echo kvalue( $meta, 'lat'); ?>,<?php echo kvalue( $meta, 'lang'); ?>&amp;&amp;t=m&amp;z=10&amp;output=embed&amp;spn=0.006295,0.006702&amp;daddr=Lugar%40<?php echo kvalue( $meta, 'lat'); ?>,<?php echo kvalue( $meta, 'lang'); ?>"></iframe>
                         </div>
                         <h4><?php the_title(); ?></h4>
                         <ul class="list">

@@ -80,7 +80,7 @@
 		$.each(['Days','Hours','Minutes','Seconds'],function(i){
 			var boxName;
 			if(this=="Days") {
-				boxName = "DAYS";
+				boxName = "DIAS";
 			}
 			else if(this=="Hours") {
 				boxName = "HRS";
@@ -89,7 +89,7 @@
 				boxName = "MIN";
 			}
 			else {
-				boxName = "SEC";
+				boxName = "SEG";
 			}
 			$('<div class="count'+this+'">' +
 				'<span class="position">' +

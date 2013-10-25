@@ -24,7 +24,7 @@
 	<div class="heading"><?php _e('Search', THEME_NAME); ?></div>
   <div class="dialog-block">
       <form method="get" action="" class="user-search-form">
-        <input type="text" name="s" class="input-block-level" placeholder="<?php _e('Enter Any Keyword', THEME_NAME); ?>">
+        <input type="text" name="s" class="input-block-level" placeholder="<?php _e('Escriba una palabra', THEME_NAME); ?>">
         <input type="submit" class="btn" value="<?php _e('Search', THEME_NAME); ?>">
       </form>
   </div>

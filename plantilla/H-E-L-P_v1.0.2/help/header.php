@@ -29,15 +29,15 @@
             <a href="<?php echo home_url(); ?>">
                 <img src="<?php echo ( $logo_src ) ? $logo_src : get_template_directory_uri().'/images/logo.png'; ?>" alt="<?php bloginfo('name');?>"> 
             </a>
-            <span class="slogan"> <?php bloginfo('description'); ?> </span> 
         </div>
         <!-- logo ends -->
-        
+      <img src="<?php echo home_url(); ?>/wp-content/themes/help/images/escudo.png" class="escudo"></img>
       <div class="tp-right">
         <div class="social-links">
           <ul>
             <?php echo fw_social_networks(); ?>
           </ul>
+          
         </div>
         <div class="tweets">
         	<?php $header_settings = $GLOBALS['_webnukes']->fw_get_settings('sub_header_settings');
@@ -48,7 +48,9 @@
 			<?php endif; ?>
           
         </div>
+
       </div>
+
     </div>
   </div><!-- tp-bar ends -->
   <nav class="menu-bar">
@@ -58,10 +60,12 @@
       <!-- menu ends --> 
       
       <div class="user-controls">
-        <?php if( !is_user_logged_in() ): ?>
+       <!-- <?php if( !is_user_logged_in() ): ?>
         	<a href="#" class="user-login"></a>
         <?php endif; ?>
-        <a href="#" class="user-search"></a>
+      -->
+        <a href="<?php echo home_url(); ?>/contacto" class="contact-link"></a>
+        <a href="#" class="user-search"></a><br style="clear:both" />
       </div>
     </div>
   </nav><!-- menu-bar ends -->

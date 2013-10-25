@@ -434,13 +434,40 @@ span.points {
 	padding-left:30px;
 }
 
+.tp-bar{
+	background-position: center -112px;
 }
+}
+
 
 @media (max-width:979px) {
 body {
 	padding-top:0;
 }
+.tp-bar{
+	background-image: none;
+}
 
+.container {
+    text-align: center;
+}
+.user-controls {
+     display: inline-block;
+}
+
+.actorHolder > div{
+	width: 96%;
+}
+
+.actorHolder > iframe {
+    width: 100% !important;
+}
+
+
+
+.escudo,.tp-right{
+	display: none;
+}
 .tp-bar .logo {
 	margin-left:40px;
 }
@@ -877,7 +904,8 @@ textarea.span1,
 .user-controls {
 	position:absolute;
 	right:0px;
-	top:72px;
+	top:25px;
+	z-index: 400;
 }
 
 .event-box .image {
